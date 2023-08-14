@@ -1,0 +1,21 @@
+{
+  "name": "Enerinno_ENN_OTA",
+  "keywords": "ESP32, ENN_OTA",
+  "description": "Esentials for ENN_OTA",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MauroDuque/ENN_OTA.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Mauricio Duque",
+      "email": "mauricio.duque.eje@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
